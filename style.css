@@ -41,6 +41,9 @@ a,ul{
     text-decoration: none;
 }
 
+ul li a{
+	color: antiquewhite;
+}
 
 a{
 margin: 20px;
@@ -59,6 +62,7 @@ ul li{
 
 .tags{
 margin-top:30px;
+margin-bottom: 15px;
 }
 
 .book,.follow{
@@ -67,6 +71,7 @@ margin-top:30px;
     border: blanchedalmond;
     border-style:solid;
     border-width: 1px;
+    
     
 }
 
